@@ -1,18 +1,18 @@
-#Line Following Pololu Robot with BLE Control: How to Set Up the Project
+# Line Following Pololu Robot with BLE Control: How to Set Up the Project
 
-#Software Requirements 
+# Software Requirements 
 -MicroPython for the Pico W2 and Pololu Robot (make sure to flash both devices with the latest firmware)
 -MicroPython editor (Thonny is recommended) 
 -BLE connector (LightBlue is recommended)
 
-#Hardware Requirements 
+# Hardware Requirements 
 -Raspberry Pi Pico W2
 
 -Pololu 3pi+ 2040 Robot
 
 -Line track (any line track with dark line and light background)
 
-#Setup:
+# Setup:
 
 Step 1: Preparing the Robot
 
